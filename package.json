@@ -1,0 +1,16 @@
+{
+  "name": "inteligencia-artificial-project",
+  "version": "1.0.0",
+  "main": "app/index.js",
+  "scripts": {
+    "salchipapa": "node app/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "json-rules-engine": "^7.3.1",
+    "mysql": "^2.18.1"
+  }
+}
